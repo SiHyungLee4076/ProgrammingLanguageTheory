@@ -1,0 +1,16 @@
+C:\PL\WinForms_HelloWorld\bin\Debug\net8.0-windows\WinForms_HelloWorld.exe
+C:\PL\WinForms_HelloWorld\bin\Debug\net8.0-windows\WinForms_HelloWorld.deps.json
+C:\PL\WinForms_HelloWorld\bin\Debug\net8.0-windows\WinForms_HelloWorld.runtimeconfig.json
+C:\PL\WinForms_HelloWorld\bin\Debug\net8.0-windows\WinForms_HelloWorld.dll
+C:\PL\WinForms_HelloWorld\bin\Debug\net8.0-windows\WinForms_HelloWorld.pdb
+C:\PL\WinForms_HelloWorld\obj\Debug\net8.0-windows\WinForms_HelloWorld.Form1.resources
+C:\PL\WinForms_HelloWorld\obj\Debug\net8.0-windows\WinForms_HelloWorld.csproj.GenerateResource.cache
+C:\PL\WinForms_HelloWorld\obj\Debug\net8.0-windows\WinForms_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\PL\WinForms_HelloWorld\obj\Debug\net8.0-windows\WinForms_HelloWorld.AssemblyInfoInputs.cache
+C:\PL\WinForms_HelloWorld\obj\Debug\net8.0-windows\WinForms_HelloWorld.AssemblyInfo.cs
+C:\PL\WinForms_HelloWorld\obj\Debug\net8.0-windows\WinForms_HelloWorld.csproj.CoreCompileInputs.cache
+C:\PL\WinForms_HelloWorld\obj\Debug\net8.0-windows\WinForms_HelloWorld.dll
+C:\PL\WinForms_HelloWorld\obj\Debug\net8.0-windows\refint\WinForms_HelloWorld.dll
+C:\PL\WinForms_HelloWorld\obj\Debug\net8.0-windows\WinForms_HelloWorld.pdb
+C:\PL\WinForms_HelloWorld\obj\Debug\net8.0-windows\WinForms_HelloWorld.genruntimeconfig.cache
+C:\PL\WinForms_HelloWorld\obj\Debug\net8.0-windows\ref\WinForms_HelloWorld.dll
